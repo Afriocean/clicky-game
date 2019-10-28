@@ -1,0 +1,11 @@
+.navHeader {
+    width: 100%;
+    font-size: 2rem;
+    color: #F0E68C(176, 184, 189);
+    margin-bottom: 10px;
+    /* background-color: goldenrod; */
+  }
+
+  
+  .scores {
+    text-align: center;
