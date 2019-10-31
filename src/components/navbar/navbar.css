@@ -1,4 +1,4 @@
-.navHeader {
+.NavHeader {
     width: 100%;
     font-size: 2rem;
     color: #F0E68C(176, 184, 189);
@@ -9,3 +9,4 @@
   
   .scores {
     text-align: center;
+  }

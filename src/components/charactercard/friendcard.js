@@ -1,7 +1,7 @@
 import React from "react";
-import "./FriendCard.css";
+import "./Friendcard.css";
 
-function FriendCard(props) {
+function Friendcard(props) {
   return (
     <div className="card" onClick={() => props.clickCounter(props.id)}>
       <div className="img-container">
@@ -11,4 +11,4 @@ function FriendCard(props) {
   );
 }
 
-export default FriendCard;
+export default Friendcard;

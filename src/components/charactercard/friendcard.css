@@ -18,7 +18,7 @@
   
   .card > .img-container {
     /* margin-top: 1rem; */
-    height: 50%;
+    height: 100%;
     overflow: hidden;
     text-align: center;
     border: 5px solid #1E90FF;

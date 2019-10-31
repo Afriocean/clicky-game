@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import FriendCard from "./components/CharacterCard/FriendCard";
-import Wrapper from "./components/Wrapper/wrapper";
-import Title from "./components/Title/title";
-import friends from "./friends.json";
-import Navbar from "./components/Navbar/Navbar"
+import FriendCard from "./Components/Charactercard/Friendcard";
+import Wrapper from "./Components/Wrapper/Wrapper";
+import Title from "./Components/Title/Title";
+import friends from "./Friends.json";
+import Navbar from "./Components/Navbar/Navbar.css"
 
 class App extends Component {
   // Setting this.state.friends to the friends json array
@@ -66,12 +66,12 @@ class App extends Component {
         } 
     };
 
-  // Map over this.state.friends and render a FriendCard component for each friend object
+  // Map over this.state.friends and render a Friendcard component for each friend object
   render() {
     return (
       <Wrapper>
-        <Title>GAME OF CLICKY!</Title>
-        <Navbar score={this.state.score} topScore={this.state.topScore}> Clicky Game </Navbar>
+        <Title>CLICKY GAME!</Title>
+        {/* <Navbar score={this.state.score} topScore={this.state.topScore}> Clicky Game </Navbar> */}
         {this.state.friends.map(friend => (
           <FriendCard
             clickCounter={this.clickCounter}

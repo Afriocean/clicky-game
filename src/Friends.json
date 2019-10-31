@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Betty",
+      "image": "/images/betty_boop.jpg",
+      "occupation": "Carton Character1",
+      "location": ""
+    },
+    {
+      "id": 2,
+      "name": "Bugs_bunny",
+      "image": "/images/bugs_bunny_250.jpg",
+      "occupation": "Carton Chracter2",
+      "location": ""
+    },
+  
+    {
+      "id": 3,
+      "name": "Coyote",
+      "image": "/images/coyote.jpg"
+      
+    },
+    {
+      "id": 4,
+      "name": "Doofenschmirtz",
+      "image": "/images/doofenschmirtz.jpg",
+      "occupation": "Carton Character4",
+      "location": ""
+    },
+    {
+      "id": 5,
+      "name": "Eric Cartman",
+      "image": "/images/eric_cartman.jpg",
+      "occupation": "Carton Character5",
+      "location": ""
+    },
+    {
+      "id": 6,
+      "name": "Fred Flintstone",
+      "image": "/images/fred_flintstone.jpg",
+      "occupation": "Carton Character6",
+      "location": ""
+    },
+    {
+      "id": 7,
+      "name": "Homer Simpson",
+      "image": "/images/homer_simpson.jpg",
+      "occupation": "Carton Character7",
+      "location": ""
+    },
+    {
+      "id": 8,
+      "name": "Lisa Simpson",
+      "image": "/images/lisa_simpson.jpg",
+      "occupation": "Carton Character8",
+      "location": ""
+    },
+    {
+      "id": 9,
+      "name": "Mickey Mouse",
+      "image": "/images/mickey_mouse.jpg",
+      "occupation": "Carton Character9",
+      "location": ""
+    },
+    {
+      "id": 10,
+      "name": "Rockey Bullwinkle",
+      "image": "/images/rocky_bullwinkle.jpg",
+      "occupation": "Carton Character10",
+      "location": ""
+    },
+    {
+      "id": 11,
+      "name": "Snoopy",
+      "image": "/images/snoopy.jpg",
+      "occupation": "Carton Character11",
+      "location": ""
+    },
+    {
+      "id": 12,
+      "name": "Tom Jerry",
+      "image": "/images/tom_jerry.jpg",
+      "occupation": "Carton Character12",
+      "location": ""
+    }
+  ]

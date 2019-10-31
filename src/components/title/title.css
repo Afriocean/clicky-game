@@ -1,4 +1,4 @@
-.title {
+.Title {
     width: 100%;
     text-align: center;
     font-family: 'Cormorant', serif;
@@ -10,9 +10,9 @@
 
   }
 
-  .titleHeader {
+  .TitleHeader {
     /* opacity: 0.8; */
-    background-image: url(../images/);
+    /* background-image: url(../images/); */
     background-repeat: no-repeat;
     background-size: 100%;
     height: 200px;
